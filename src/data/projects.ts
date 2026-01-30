@@ -24,7 +24,7 @@ export const projects: Project[] = [
 {
   title: "My Github",
   description: "My GitHub profile with projects and repositories.",
-  details: "React, Python, AI, robotics, and more.",
+  details: "React, Python, Java, CPP Projects",
   link: "https://github.com/lilydeller",
   linkLabel: "View GitHub →",
 },
